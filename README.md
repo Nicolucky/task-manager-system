@@ -10,7 +10,8 @@ A simple full-stack web application for managing tasks, built using **Express.js
 - Backend error handling for better debugging.
 - Secure password storage with Bcrypt.
 - Seamless frontend-backend integration.
-- live demo link: 
+  
+ live demo link: 
 
 ## **Project Structure**
 
